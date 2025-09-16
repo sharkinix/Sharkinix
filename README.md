@@ -37,8 +37,8 @@
 ---
 
 ## 📊 GitHub Stats
-![shakinix's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakinix&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakinix&layout=compact&theme=tokyonight)
+![sharkinix's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharkinix&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharkinix&layout=compact&theme=tokyonight)
 
 ---
 
